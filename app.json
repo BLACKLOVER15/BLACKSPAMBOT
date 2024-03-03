@@ -1,8 +1,8 @@
 
 {
-    "name": "KING-𝚂𝙿𝙰𝙼-𝙱𝙾𝚃",
+    "name": "BLACK SPAM BOT",
     "description": "MOST POWERFUL + STABLE SPAMBOTS",
-    "logo": "https://te.legra.ph/file/2e2f78610814092d61103.jpg",
+    "logo": "https://te.legra.ph/file/11adba95c2c26ae877ccf.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -10,23 +10,23 @@
         "deadlybot",
         "SpamBots"
     ],
-    "repository": "https://github.com/WCGKING/KINGSPAM",
-    "website": "https://t.me/BRANDED_KHUSHI",
-    "success_url": "https://t.me/BRANDED_WORLD",
+    "repository": "https://github.com/BLACKLOVER15/BLACKSPAMBOT",
+    "website": "https://t.me/BlackMusicSupport",
+    "success_url": "https://t.me/Exampur20",
     "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
-        "value": "26319490",
+        "value": "28916182",
         "required": true
       },
       "ALIVE_PIC": {
         "description": "your alive pic or video",
-        "value": "https://te.legra.ph/file/2e2f78610814092d61103.jpg",
+        "value": "https://te.legra.ph/file/11adba95c2c26ae877ccf.jpg",
         "required": false
       },
       "API_HASH": {
         "description": "Fill Api hash Take this value from My.telegram.org",
-        "value": "e99518c312bd6fcb3e8643bf55e3a339",
+        "value": "d1b35f94f2b90716d76f8f318abedce9",
         "required": true
       },
      "CMD_HNDLR": {
@@ -42,51 +42,51 @@
       "BOT_TOKEN2": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
-        "required": true
+        "required": false
       },
       "BOT_TOKEN3": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
-        "required": true
+        "required": false
       },
       "BOT_TOKEN4": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
-        "required": true
+        "required": false
       },
       "BOT_TOKEN5": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
-        "required": true
+        "required": false
       },
       "BOT_TOKEN6": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
-        "required": true
+        "required": false
       },
       "BOT_TOKEN7": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
-        "required": true
+        "required": false
       },
       "BOT_TOKEN8": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
-        "required": true
+        "required": false
       },
       "BOT_TOKEN9": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
-        "required": true
+        "required": false
       },
       "BOT_TOKEN10": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
-        "required": true
+        "required": false
       },
       "OWNER_ID": {
             "description": "owner Id",
-            "value": "6258877205",
+            "value": "6950353753",
             "required": true
         }
     },
